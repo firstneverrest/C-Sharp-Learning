@@ -1,0 +1,16 @@
+D:\full stack developer\project\learning\c#\bin\Debug\net5.0\c#.exe
+D:\full stack developer\project\learning\c#\bin\Debug\net5.0\c#.deps.json
+D:\full stack developer\project\learning\c#\bin\Debug\net5.0\c#.runtimeconfig.json
+D:\full stack developer\project\learning\c#\bin\Debug\net5.0\c#.runtimeconfig.dev.json
+D:\full stack developer\project\learning\c#\bin\Debug\net5.0\c#.dll
+D:\full stack developer\project\learning\c#\bin\Debug\net5.0\ref\c#.dll
+D:\full stack developer\project\learning\c#\bin\Debug\net5.0\c#.pdb
+D:\full stack developer\project\learning\c#\obj\Debug\net5.0\c#.csproj.AssemblyReference.cache
+D:\full stack developer\project\learning\c#\obj\Debug\net5.0\c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\full stack developer\project\learning\c#\obj\Debug\net5.0\c#.AssemblyInfoInputs.cache
+D:\full stack developer\project\learning\c#\obj\Debug\net5.0\c#.AssemblyInfo.cs
+D:\full stack developer\project\learning\c#\obj\Debug\net5.0\c#.csproj.CoreCompileInputs.cache
+D:\full stack developer\project\learning\c#\obj\Debug\net5.0\c#.dll
+D:\full stack developer\project\learning\c#\obj\Debug\net5.0\ref\c#.dll
+D:\full stack developer\project\learning\c#\obj\Debug\net5.0\c#.pdb
+D:\full stack developer\project\learning\c#\obj\Debug\net5.0\c#.genruntimeconfig.cache
